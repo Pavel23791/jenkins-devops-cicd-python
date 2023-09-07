@@ -8,5 +8,5 @@ def multi(number1=0, number2=0):
   return f"The mult of {number1} and {number2} is {multnum}"
 
 if __name__ == '__main__':
-  fire.Fire(hello)
+  # fire.Fire(hello)
   fire.Fire(multi)
